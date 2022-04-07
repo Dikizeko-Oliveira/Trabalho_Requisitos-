@@ -1,0 +1,102 @@
+USUÁRIOS CONSUMIDORES:
+- Criar conta
+  * Nome completo
+  * Email
+  * Senha
+  
+- Confirmar conta
+  * Envio de email para confirmação
+  
+- Logar na aplicação
+  * Email
+  * Senha
+  
+- Cadastrar veículos
+  * CPF
+  * CNH
+  * Nº de telefone
+  * Matrícula do carro 
+  
+- Escolher estaciomentos (FEEDS)
+  * Selecionar um estaciomento
+  
+- Agendar horário
+  * Escolher horários
+  
+- Reagendar horário
+  * Reescolher horários
+  
+- Confirmar pagamento
+    1 - Boleto
+    2 - Pix (QR Code ou Chave)
+    3 - Cartão de crédito
+      * Nome do proprietário
+      * CPF do proprietário
+      * Numero do cartão de crédito do proprietário
+      
+- Código de confirmação do aluguer 
+  * QRCODE
+  * PIN aleatório
+  
+- Mensalidade (Plano de estaciomento)
+  1 - Cadastrar cartão de crédito
+      * Nome do proprietário
+      * CPF do proprietário
+      * Numero do cartão de crédito do proprietário
+      
+- Extratos
+ * Ver extratos de pagamentos
+ 
+- Favoritar estaciomento
+ * Adicionar estaciomento como favorito
+ 
+- Iniciar trajeto para o estaciomento
+  * Adicionar mapas(GPS) em tempo real (Tipo waze)
+  
+- Editar perfil
+  * Editar dados Cadastrais
+  
+- Avaliar estaciomento
+  * 5 estrelas
+  * Comentários
+  
+- Sair da aplicação
+
+USUÁRIOS FORNECEDORES:
+- Criar conta
+  * Nome do estaciomento
+  * Email do estaciomento
+  * Endereço do estaciomento
+  * Senha
+  
+- Informações adicionais
+  * Quantidade de vagas do estaciomento
+  * Contato do estaciomento
+  * Fotos/Vídeos do estaciomento
+  
+- Confirmar conta
+  * Envio de email para confirmação
+  
+- Logar na aplicação
+  * Email
+  * Senha
+  
+- Confirmar horários de estaciomento oferecidos
+  * Cadastrar os horários de funcionamento
+  
+- Dados bancários
+  * Nome do proprietário
+  * CPF do proprietário
+  * Numero do cartão de crédito do proprietário
+  
+- Pagamentos
+  * Extratos bancários (Incluir gráficos)
+  
+- Editar perfil
+  * Editar dados cadastrais
+  
+- Sair da aplicação
+
+email: ipark.unip@gmail.com
+senha: ipark@unip123
+username: ipark-unip
